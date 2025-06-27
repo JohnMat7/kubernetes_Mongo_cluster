@@ -1,2 +1,2 @@
 *.pwc
-mongodb/*.swp
+mongodb/.mongo-pvc.yaml.swp
