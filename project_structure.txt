@@ -1,0 +1,18 @@
+(Kubernetes project):
+
+mongo-k8s-project/
+├── base/
+│   ├── mongo/
+│   │   ├── deployment.yaml
+│   │   ├── service.yaml
+│   │   ├── pvc.yaml
+│   │   ├── secret.yaml
+│   ├── mongo-express/
+│   │   ├── deployment.yaml
+│   │   ├── service.yaml
+│   │   ├── configmap.yaml
+│   └── kustomization.yaml
+
+
+Mongodb username : mongo123
+Mongodb password : mongo@1234$
