@@ -2,7 +2,7 @@
 
 mongo-k8s-project/
 ├── base/
-│   ├── mongo/
+│   ├── mongodb/
 │   │   ├── deployment.yaml
 │   │   ├── service.yaml
 │   │   ├── pvc.yaml
