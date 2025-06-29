@@ -15,4 +15,4 @@ mongo-k8s-project/
 
 
 Mongodb username : mongo123
-Mongodb password : mongo@1234$
+Mongodb password : password123
